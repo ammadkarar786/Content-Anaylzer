@@ -5,7 +5,7 @@
 
 The Social Media Content Analyzer is a Python-based web application developed with Streamlit, designed to empower users to gain insights from textual content. This versatile tool offers a range of features for analyzing and understanding text data, making it an essential addition to your data analysis toolkit.
 
-![Analyzer Screenshot](screenshot.png)
+
 
 **Key Features:**
 
